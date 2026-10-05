@@ -8,6 +8,9 @@ pysecrets.py
 .dmypy.json
 dmypy.json
 
+# itslef (uncomment if needed)
+.gitignore
+
 
 
 
@@ -181,6 +184,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
-# itslef
-.gitignore
